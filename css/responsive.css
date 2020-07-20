@@ -1,0 +1,534 @@
+/* Extra small devices (portrait phones, less than 480px)*/
+
+@media (max-width: 479.98px) {
+
+    /*menu part*/
+
+    .menu_part ul li a {
+
+        text-align: center;
+
+
+    }
+
+    .menu_part ul li {
+        margin-left: 0px;
+    }
+
+    .menu_part ul {
+        background: #272B43;
+    }
+
+    .menu_part ul li a:after {
+        background: none;
+    }
+
+    .menu_part ul li {
+        border-bottom: 1px solid #66697e;
+        padding-bottom: 5px;
+    }
+
+    .menu_part ul li:last-child {
+        border-bottom: 0px;
+        padding-bottom: 0px;
+    }
+
+    /*    banner part*/
+
+    #banner_part {
+        padding-top: 100px;
+        padding-bottom: 50px;
+
+    }
+
+    .banner_content h2 {
+        font-size: 19px;
+
+    }
+
+    .banner_content p {
+        font-size: 13px;
+        margin-top: 16px;
+        padding: 0px 30px;
+    }
+
+    .banner_content a {
+
+        margin-top: 30px;
+        width: 170px;
+        padding: 10px 0px;
+        font-size: 12px;
+
+    }
+
+    /*    work part*/
+
+    .works_content p {
+
+        padding-bottom: 20px;
+    }
+
+    .works_padding {
+        padding-top: 15px;
+    }
+
+    #works_part {
+
+        padding: 45px 0px 30px 0px;
+    }
+
+    /*    team part*/
+    .team_margin {
+        margin-bottom: 25px;
+    }
+
+    #team_part {
+
+        padding: 40px 0px 20px 0px;
+    }
+
+    .team {
+        width: 80%;
+        margin: 0 auto;
+    }
+
+    /*    slider part*/
+
+    .slider_right {
+
+        padding: 30px 0px 35px 30px;
+    }
+
+    .slider_right h3 {
+        font-size: 20px;
+        padding-bottom: 25px;
+    }
+
+    .slider_left img {
+        height: 200px;
+    }
+
+    .slider_right p {
+        font-size: 11px;
+
+    }
+
+    /*    download part*/
+
+    #download_part {
+
+        padding: 40px 0px;
+    }
+
+    .download_content h3 {
+        font-size: 20px;
+
+    }
+
+    .download_content h5 {
+        font-size: 12px;
+
+    }
+
+    .download_content a {
+        width: 170px;
+        padding: 10px 0px;
+
+        font-size: 12px;
+
+    }
+
+    /*    footer part*/
+
+
+    .footer_top_left {
+
+        margin-bottom: 10px;
+        border-bottom: 1px solid #66697E;
+        padding-bottom: 30px
+    }
+
+    .footer_top_middle {
+        margin-bottom: 10px;
+        border-bottom: 1px solid #66697E;
+        padding-bottom: 30px
+    }
+
+    #footer_top_part {
+
+        padding: 40px 0px;
+    }
+}
+
+
+/* Small devices 2 (landscape phones, 576px and up)*/
+
+@media (min-width: 480px) and (max-width: 575.98px) {
+
+    /*menu part*/
+
+    .menu_part ul li a {
+
+        text-align: center;
+
+
+    }
+
+    .menu_part ul li {
+        margin-left: 0px;
+    }
+
+    .menu_part ul {
+        background: #272B43;
+    }
+
+    .menu_part ul li a:after {
+        background: none;
+    }
+
+    .menu_part ul li {
+        border-bottom: 1px solid #66697e;
+        padding-bottom: 5px;
+    }
+
+    .menu_part ul li:last-child {
+        border-bottom: 0px;
+        padding-bottom: 0px;
+    }
+
+    /*    banner part*/
+
+    #banner_part {
+        padding-top: 120px;
+        padding-bottom: 70px;
+
+    }
+
+    .banner_content h2 {
+        font-size: 30px;
+
+    }
+
+    .banner_content p {
+        font-size: 14px;
+        margin-top: 16px;
+        padding: 0px 60px;
+    }
+
+    .banner_content a {
+
+        margin-top: 45px;
+
+    }
+
+    /*    work part*/
+
+    .works_content p {
+
+        padding-bottom: 20px;
+    }
+
+    .works_padding {
+        padding-top: 15px;
+    }
+
+    #works_part {
+
+        padding: 60px 0px 35px 0px;
+    }
+
+    /*    team part*/
+    .team_margin {
+        margin-bottom: 25px;
+    }
+
+    #team_part {
+
+        padding: 80px 0px 45px 0px;
+    }
+
+    .team {
+        width: 80%;
+        margin: 0 auto;
+    }
+
+    /*    slider part*/
+
+    .slider_right {
+
+        padding: 40px 0px 50px 50px;
+    }
+
+    .slider_right h3 {
+        font-size: 28px;
+        padding-bottom: 30px;
+    }
+
+    .slider_left img {
+        height: 280px;
+    }
+
+    /*    download part*/
+
+    #download_part {
+
+        padding: 60px 0px;
+    }
+
+    .download_content h3 {
+        font-size: 25px;
+
+    }
+
+    /*    footer part*/
+
+
+    .footer_top_left {
+
+        margin-bottom: 10px;
+        border-bottom: 1px solid #66697E;
+        padding-bottom: 30px
+    }
+
+    .footer_top_middle {
+        margin-bottom: 10px;
+        border-bottom: 1px solid #66697E;
+        padding-bottom: 30px
+    }
+
+    #footer_top_part {
+
+        padding: 55px 0px;
+    }
+
+}
+
+
+/* Small devices (landscape phones, 576px and up)*/
+
+@media (min-width: 576px) and (max-width: 767.98px) {
+
+
+    /*menu part*/
+
+    .menu_part ul li a {
+
+        text-align: center;
+
+
+    }
+
+    .menu_part ul li {
+        margin-left: 0px;
+    }
+
+    .menu_part ul {
+        background: #272B43;
+    }
+
+    .menu_part ul li a:after {
+        background: none;
+    }
+
+    .menu_part ul li {
+        border-bottom: 1px solid #66697e;
+        padding-bottom: 5px;
+    }
+
+    .menu_part ul li:last-child {
+        border-bottom: 0px;
+        padding-bottom: 0px;
+    }
+
+    /*    banner part*/
+
+    #banner_part {
+        padding-top: 150px;
+
+    }
+
+    .banner_content h2 {
+        font-size: 34px;
+
+    }
+
+    .banner_content p {
+        font-size: 12px;
+        margin-top: 16px;
+    }
+
+    .banner_content a {
+
+        margin-top: 60px;
+
+    }
+
+    /*    work part*/
+
+    .works_content p {
+
+        padding-bottom: 20px;
+    }
+
+    .works_padding {
+        padding-top: 15px;
+    }
+
+    #works_part {
+
+        padding: 80px 0px 50px 0px;
+    }
+
+    /*    team part*/
+    .team_margin {
+        margin-bottom: 25px;
+    }
+
+    #team_part {
+
+        padding: 80px 0px 45px 0px;
+    }
+
+    /*    slider part*/
+
+    .slider_right {
+
+        padding: 50px 0px 70px 65px;
+    }
+
+    .slider_right h3 {
+        font-size: 32px;
+        padding-bottom: 35px;
+    }
+
+    .slider_left img {
+        height: 350px;
+    }
+
+    /*    download part*/
+
+    #download_part {
+
+        padding: 70px 0px;
+    }
+
+    /*    footer part*/
+
+    /*
+    .footer_top_left{
+	
+	margin-bottom: 30px;
+}
+    .footer_top_middle{
+        margin-bottom: 30px;
+    }
+*/
+
+
+
+
+}
+
+
+
+/*Medium devices (tablets, 768px and up)*/
+
+@media (min-width: 768px) and (max-width: 991.98px) {
+
+    /*menu part*/
+
+    .menu_part ul li a {
+
+        text-align: center;
+
+
+    }
+
+    .menu_part ul {
+        background: #272B43;
+    }
+
+    .menu_part ul li {
+        margin-left: 0px;
+    }
+
+    .menu_part ul li a:after {
+        background: none;
+    }
+
+    .menu_part ul li {
+        border-bottom: 1px solid #66697e;
+        padding-bottom: 5px;
+    }
+
+    .menu_part ul li:last-child {
+        border-bottom: 0px;
+        padding-bottom: 0px;
+    }
+
+    /*    banner part*/
+
+    #banner_part {
+        padding-top: 150px;
+
+    }
+
+    .banner_content h2 {
+        font-size: 50px;
+
+    }
+
+    .banner_content p {
+        font-size: 16px;
+        margin-top: 16px;
+    }
+
+    .banner_content a {
+
+        margin-top: 60px;
+
+    }
+
+    /*    work part*/
+
+    .works_content p {
+
+        padding-bottom: 20px;
+    }
+
+    .works_padding {
+        padding-top: 15px;
+    }
+
+    #works_part {
+
+        padding: 80px 0px 65px 0px;
+    }
+
+    /*    team part*/
+    .team_margin {
+        margin-bottom: 25px;
+    }
+
+    #team_part {
+
+        padding: 80px 0px 60px 0px;
+    }
+
+
+
+}
+
+
+
+// Large devices (desktops, 992px and up)
+@media (min-width: 992px) and (max-width: 1199.98px) {
+    ...
+}
+
+
+
+// Extra large devices (large desktops, 1200px and up)
+@media (min-width: 1200px) {
+    ...
+}
